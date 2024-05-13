@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reactbulb/static/css/main.31d6cfe0.css",
+    "main.js": "/reactbulb/static/js/main.51cd9063.js",
+    "index.html": "/reactbulb/index.html",
+    "main.51cd9063.js.map": "/reactbulb/static/js/main.51cd9063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.51cd9063.js"
+  ]
+}
